@@ -273,7 +273,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Chief Information Security Officer',
     company: 'Trustifi',
-    companyLogo: '/img/icons/common/trustifi.jpg',
+    companyLogo: '/img/icons/common/trustifi.png',
     date: 'Oct 2021',
     desc: 'As a CISO with experience in email security and compliance, I have developed and implemented email security measures to protect against various threats including spam, phishing, and malware. I am skilled in leading a cyber security team and have managed VIP clients. My expertise in this field has allowed me to effectively secure email systems in accordance with regulations such as GDPR, HIPAA, and ISO 27001.',
   },
