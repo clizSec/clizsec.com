@@ -63,11 +63,11 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:javascript',
         },
         {
-          skillName: 'Reactjs',
-          fontAwesomeClassName: 'vscode-icons:file-type-reactjs',
+          skillName: 'Angular',
+          fontAwesomeClassName: 'logos:angular-icon',
         },
         {
-          skillName: 'Nextjs',
+          skillName: 'Next.js',
           fontAwesomeClassName: 'vscode-icons:file-type-light-next',
         },
         {
@@ -75,13 +75,12 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:python',
         },
         {
-          skillName: 'Django',
-          fontAwesomeClassName: 'vscode-icons:file-type-django',
+          skillName: 'Bash',
+          fontAwesomeClassName: 'logos:bash-icon',
         },
-
         {
-          skillName: 'Redux',
-          fontAwesomeClassName: 'logos:redux',
+          skillName: 'C#',
+          fontAwesomeClassName: 'logos:c-sharp',
         },
         {
           skillName: 'NPM',
@@ -112,7 +111,11 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:aws',
         },
         {
-          skillName: 'Azure',
+          skillName: 'Microsoft Office 365 & Exchange',
+          fontAwesomeClassName: 'logos:microsoft-icon',
+        },
+        {
+          skillName: 'Microsoft Azure',
           fontAwesomeClassName: 'logos:microsoft-azure',
         },
         {
@@ -120,32 +123,32 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:heroku-icon',
         },
         {
-          skillName: 'PostgreSQL',
-          fontAwesomeClassName: 'logos:postgresql',
+          skillName: 'Google Workspace',
+          fontAwesomeClassName: 'logos:google-gmail',
+        },
+        {
+          skillName: 'Google Cloud',
+          fontAwesomeClassName: 'logos:google-cloud',
+        },
+        {
+          skillName: 'MySQL',
+          fontAwesomeClassName: 'logos:mysql',
         },
         {
           skillName: 'Github',
-          fontAwesomeClassName: 'akar-icons:github-fill',
+          fontAwesomeClassName: 'logos:github-icon',
         },
         {
-          skillName: 'Docker',
-          fontAwesomeClassName: 'logos:docker-icon',
-        },
-        {
-          skillName: 'Github Actions',
-          fontAwesomeClassName: 'logos:github-actions',
-        },
-        {
-          skillName: 'Cloudinary',
-          fontAwesomeClassName: 'logos:cloudinary',
+          skillName: 'Netlify',
+          fontAwesomeClassName: 'logos:netlify-icon',
         },
         {
           skillName: 'Nginx',
           fontAwesomeClassName: 'logos:nginx',
         },
         {
-          skillName: 'Microsoft Outlook',
-          fontAwesomeClassName: 'mdi:microsoft-outlook',
+          skillName: 'Apache',
+          fontAwesomeClassName: 'logos:apache',
         },
       ],
     },
