@@ -144,8 +144,8 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:nginx',
         },
         {
-          skillName: 'Sentry',
-          fontAwesomeClassName: 'logos:sentry-icon',
+          skillName: 'Microsoft Outlook',
+          fontAwesomeClassName: 'mdi:microsoft-outlook',
         },
       ],
     },
