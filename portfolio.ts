@@ -111,7 +111,7 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:aws',
         },
         {
-          skillName: 'Microsoft Office 365 & Exchange',
+          skillName: 'Microsoft Office 365 and Exchange',
           fontAwesomeClassName: 'logos:microsoft-icon',
         },
         {
