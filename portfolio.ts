@@ -79,7 +79,7 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:bash-icon',
         },
         {
-          skillName: 'C#',
+          skillName: 'C Sharp',
           fontAwesomeClassName: 'logos:c-sharp',
         },
         {
