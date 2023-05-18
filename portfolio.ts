@@ -327,7 +327,7 @@ export const showContactUs: boolean = true;
 export const seoData: SEODataType = {
   title: 'Mark Liapustin (clizSec)',
   description: 'Keeping Hackers Guessing and Cyber Threats Stressing!',
-  author: 'Mark Liapustin',
+  author: 'Mark Liapustin (clizSec)',
   image: 'https://avatars.githubusercontent.com/u/21152343?v=4',
   url: 'https://clizsec.com/',
   keywords: [
