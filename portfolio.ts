@@ -45,7 +45,7 @@ export const skillsSection: SkillsSectionType = {
       skills: [
         emoji('⚡ Angular/AngularJS and C# development'),
         emoji('⚡ Python and Bash scripting for tools and exploitation'),
-        emoji('⚡ Secure Software Development Life Cycle practices, ensuring secure coding standards.'),
+        emoji('⚡ Secure Software Development Life Cycle practices, ensuring secure coding standards'),
       ],
       softwareSkills: [
         {
