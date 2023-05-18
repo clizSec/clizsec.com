@@ -210,16 +210,16 @@ export const SkillBars: SkillBarsType[] = [
     progressPercentage: '100',
   },
   {
-    Stack: 'Fullstack',
-    progressPercentage: '75',
+    Stack: 'Coding and Development',
+    progressPercentage: '90',
   },
   {
     Stack: 'Network Security',
     progressPercentage: '80',
   },
   {
-    Stack: 'Fullstack',
-    progressPercentage: '75',
+    Stack: 'Penetration Testing and Vulnerability Scanning',
+    progressPercentage: '90',
   },
 ];
 
