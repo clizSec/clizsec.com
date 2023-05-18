@@ -248,14 +248,14 @@ export const experience: ExperienceType[] = [
   {
     role: 'Cyber Security Specialist',
     company: 'Nation-E',
-    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
+    companyLogo: '/img/icons/common/nation-e.png',
     date: 'Nov 2014 – Aug 2017',
     desc: 'As a Cyber Security Specialist at Nation-E, my main focus was on exploiting ICS/SCADA devices and running proof of concept demonstrations for potential clients to showcase the capabilities of our product in stopping zero day threats and exploitations. I was able to successfully publish a CVE for one of the exploits I discovered. In this role, I gained valuable experience in the field of cyber security and the protection of critical infrastructure systems.',
   },
   {
     role: 'Information Security Specialist',
     company: 'Trustifi',
-    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
+    companyLogo: '/img/icons/common/trustifi.png',
     date: 'Aug 2017 – Aug 2018',
     desc: 'As an Information Security Specialist, I have gained expertise in researching and analyzing email security threats and conducting vulnerability and penetration testing. My work has allowed me to become a trusted resource for information security within my organization.',
     // descBullets: [
@@ -266,14 +266,14 @@ export const experience: ExperienceType[] = [
   {
     role: 'Information Security, Compliance and Data Protection Officer',
     company: 'Trustifi',
-    companyLogo: '/img/icons/common/bleedAI.jpg',
+    companyLogo: '/img/icons/common/trustifi.png',
     date: 'Aug 2018 - Oct 2021',
     desc: 'As a Information Security, Compliance and Data Protection Officer, I have developed and implemented email security protections in the product, proprietary metrics and signatures, and managed my company\'s Information Technology environment while also creating internal Information Security policies to ensure the security and compliance of our systems. Leading, developing and certifying the company for compliance, regulations and standards such as GDPR, HIPAA and ISO 27001.',
   },
   {
     role: 'Chief Information Security Officer',
     company: 'Trustifi',
-    companyLogo: '/img/icons/common/wapidu.jpg',
+    companyLogo: '/img/icons/common/trustifi.jpg',
     date: 'Oct 2021',
     desc: 'As a CISO with experience in email security and compliance, I have developed and implemented email security measures to protect against various threats including spam, phishing, and malware. I am skilled in leading a cyber security team and have managed VIP clients. My expertise in this field has allowed me to effectively secure email systems in accordance with regulations such as GDPR, HIPAA, and ISO 27001.',
   },
