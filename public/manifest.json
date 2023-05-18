@@ -4,7 +4,7 @@
   "description": "Keeping Hackers Guessing and Cyber Threats Stressing!",
   "icons": [
     {
-      "src": "./android-chrome-192x-192.png",
+      "src": "./android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
