@@ -67,7 +67,7 @@ export const skillsSection: SkillsSectionType = {
           fontAwesomeClassName: 'logos:angular-icon',
         },
         {
-          skillName: 'Next.js',
+          skillName: 'Nextjs',
           fontAwesomeClassName: 'vscode-icons:file-type-light-next',
         },
         {
