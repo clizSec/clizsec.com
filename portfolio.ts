@@ -12,32 +12,32 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-  name: 'Hanzla Tauqeer',
-  title: "Hi all, I'm Hanzla",
+  name: 'Mark Liapustin',
+  title: "Hi all, I'm Mark",
   description:
-    "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+    "I am a highly experienced Chief Information Security Officer (CISO) currently serving at Trustifi. With a deep understanding of various domains, including email security, website security, API security, SCADA/ICS, and IoT, I am dedicated to safeguarding digital environments against potential threats.",
   resumeLink:
-    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
+    'https://www.linkedin.com/in/clizsec/',
 };
 
 export const openSource = {
-  githubUserName: '1hanzla100',
+  githubUserName: 'clizSec',
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://1hanzla100.github.io/',
-  linkedin: 'https://www.linkedin.com/in/1hanzla100/',
-  github: 'https://github.com/1hanzla100',
-  instagram: 'https://www.instagram.com/__hanzla100',
-  facebook: 'https://www.facebook.com/1hanzla100',
-  twitter: 'https://twitter.com/1hanzla100',
+  url: 'https://clizsec.com/',
+  linkedin: 'https://www.linkedin.com/in/clizSec/',
+  github: 'https://github.com/clizSec',
+  instagram: 'https://www.instagram.com/clizsec',
+  facebook: 'https://www.facebook.com/clizsec',
+  twitter: 'https://www.linkedin.com/in/clizSec/',
 };
 
 export const skillsSection: SkillsSectionType = {
   title: 'What I do',
-  subTitle: 'CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
+  subTitle: 'Keeping Hackers Guessing and Cyber Threats Stressing!',
   data: [
     {
       title: 'Full Stack Development',
@@ -210,87 +210,89 @@ export const SkillBars: SkillBarsType[] = [
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: 'Harvard University',
-    subHeader: 'Master of Science in Computer Science',
-    duration: 'September 2017 - April 2019',
-    desc: 'Participated in the research of XXX and published 3 papers.',
-    grade: 'Grade A',
+    schoolName: 'John Bryce College',
+    subHeader: 'Cyber Security Intelligence Professional (CSI PRO)',
+    duration: 'September 2014 - September 2016',
+    desc: 'I received a comprehensive education at college in the field of cyber security. This included training in security issues, penetration testing, vulnerability scanning and assessment, exploitation, and social engineering. Through hands-on projects and group work, I developed the necessary technical and communication skills to succeed in this field.',
+    grade: 'Grade A+',
     descBullets: [
-      'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+      'Comprehensive understanding of network security protocols and architectures',
+      'Securing APIs to protect sensitive data and prevent unauthorized access',
+      'Website security best practices and techniques',
+      'Identifying and mitigating website vulnerabilities, including cross-site scripting (XSS), SQL injection, and code injection',
+      'Web application firewalls (WAFs) and intrusion detection/prevention systems (IDS/IPS)',
+      'Conducting penetration testing and vulnerability scanning for network, APIs, and websites',
+      'Industry standards and regulations related to network, API, and website security, such as OWASP, PCI DSS, and GDPR',
+      'Proficient in creating and customizing Metasploit payloads, e.g. Meterpreter, for penetration testing and post-exploitation activities',
+      'Post-exploitation techniques, such as privilege escalation, lateral movement, and data exfiltration'
     ],
   },
 ];
 
 export const experience: ExperienceType[] = [
   {
-    role: 'Frontend Developer',
-    company: 'Duseca Software',
+    role: 'Cyber Security Specialist',
+    company: 'Nation-E',
     companyLogo: '/img/icons/common/dusecaSoftware.jpg',
-    date: 'Apr 2022 – Jun 2022',
-    desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
+    date: 'Nov 2014 – Aug 2017',
+    desc: 'As a Cyber Security Specialist at Nation-E, my main focus was on exploiting ICS/SCADA devices and running proof of concept demonstrations for potential clients to showcase the capabilities of our product in stopping zero day threats and exploitations. I was able to successfully publish a CVE for one of the exploits I discovered. In this role, I gained valuable experience in the field of cyber security and the protection of critical infrastructure systems.',
   },
   {
-    role: 'API Engineer',
-    company: 'Duseca Software',
+    role: 'Information Security Specialist',
+    company: 'Trustifi',
     companyLogo: '/img/icons/common/dusecaSoftware.jpg',
-    date: 'Jan 2022 – Mar 2022',
-    desc: 'I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.',
+    date: 'Aug 2017 – Aug 2018',
+    desc: 'As an Information Security Specialist, I have gained expertise in researching and analyzing email security threats and conducting vulnerability and penetration testing. My work has allowed me to become a trusted resource for information security within my organization.',
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     // ],
   },
   {
-    role: 'Full Stack Developer',
-    company: 'Bleed-AI',
+    role: 'Information Security, Compliance and Data Protection Officer',
+    company: 'Trustifi',
     companyLogo: '/img/icons/common/bleedAI.jpg',
-    date: 'Sept 2021 - Oct 2021',
-    desc: 'Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
+    date: 'Aug 2018 - Oct 2021',
+    desc: 'As a Information Security, Compliance and Data Protection Officer, I have developed and implemented email security protections in the product, proprietary metrics and signatures, and managed my company\'s Information Technology environment while also creating internal Information Security policies to ensure the security and compliance of our systems. Leading, developing and certifying the company for compliance, regulations and standards such as GDPR, HIPAA and ISO 27001.',
   },
   {
-    role: 'Backend Developer',
-    company: 'Wapidu',
+    role: 'Chief Information Security Officer',
+    company: 'Trustifi',
     companyLogo: '/img/icons/common/wapidu.jpg',
-    date: 'Sept 2021',
-    desc: 'Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.',
+    date: 'Oct 2021',
+    desc: 'As a CISO with experience in email security and compliance, I have developed and implemented email security measures to protect against various threats including spam, phishing, and malware. I am skilled in leading a cyber security team and have managed VIP clients. My expertise in this field has allowed me to effectively secure email systems in accordance with regulations such as GDPR, HIPAA, and ISO 27001.',
   },
 ];
 
 export const projects: ProjectType[] = [
   {
-    name: 'developer-portfolio',
-    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: 'https://github.com/1hanzla100/developer-portfolio',
-    link: 'https://developer-portfolio-1hanzla100.vercel.app/',
-  },
-  {
-    name: 'AtlasMart',
-    desc: 'With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.',
-    github: 'https://github.com/1hanzla100/Django-React-Marketplace',
-  },
-  {
-    name: 'Technota (Forum)',
-    desc: 'Get hands-on experience in technical skills with Technota',
-    github: 'https://github.com/1hanzla100/django-react-forum',
-  },
-  {
-    name: 'Shopaza (Ecommerce)',
-    desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
-    github: 'https://github.com/1hanzla100/Django-ecommerce',
+    name: 'ICS and SCADA tools and exploits',
+    desc: 'Schneider Electric exploit script confirmed by Scheider Electric in a POC with confirmed CVE.',
+    github: 'https://github.com/clizSec/ics-scada',
+    link: 'https://ics-cert.us-cert.gov/advisories/ICSA-17-061-02',
   },
 ];
 
 export const feedbacks: FeedbackType[] = [
   {
-    name: 'John Smith',
+    name: 'United States Department of Defense',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      'In April, 2017, I helped the DoD to find vulnerabilities on their servers under HackerOne\'s program. My research and findings on the DoD servers was on the Pentagon\'s VISA/Passport Program, Military websites and servers and research centers.',
   },
   {
-    name: 'John Smith',
+    name: 'Schneider Electric',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      'In March, 2017, I successfully exploited Schneider Electric\'s devices used for SCADA/ICS in critical infrastructures and created CVE\'s.',
+  },
+  {
+    name: 'FlexiSpy',
+    feedback:
+        'In June, 2017, I found two high to critical vulnerabilities on FlexiSPY\'s service and got awarded with bug bounty.',
+  },
+  {
+    name: 'Instacart',
+    feedback:
+        'In May, 2017, I found two medium-high vulnerabilities on Instacart service and got awarded with bug bounty.',
   },
 ];
 
@@ -299,19 +301,19 @@ export const showContactUs: boolean = true;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: 'Hanzla Tauqeer',
+  title: 'Mark Liapustin',
   description:
-    'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'Hanzla Tauqeer',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+    'Keeping Hackers Guessing and Cyber Threats Stressing!',
+  author: 'Mark Liapustin',
+  image: 'https://avatars.githubusercontent.com/u/21152343?v=4',
+  url: 'https://clizsec.com/',
   keywords: [
-    'Hanzla',
-    'Hanzla Tauqeer',
-    '@1hanzla100',
-    '1hanzla100',
+    'Mark',
+    'Mark Liapustin',
+    '@clizsec',
+    'clizsec',
     'Portfolio',
-    'Hanzla Portfolio ',
-    'Hanzla Tauqeer Portfolio',
+    'Mark Liapustin Portfolio ',
+    'clizSec Portfolio',
   ],
 };
