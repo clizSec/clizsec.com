@@ -78,7 +78,9 @@ export type ProjectType = {
   desc: string;
   github?: string;
   link?: string;
-  buttonName?: string;
+  linkButtonName?: string;
+  additionalLink?: string;
+  additionalLinkButtonName?: string;
 };
 
 // * FEEDBACK SECTION

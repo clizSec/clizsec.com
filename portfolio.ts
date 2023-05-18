@@ -282,7 +282,9 @@ export const projects: ProjectType[] = [
     desc: 'Schneider Electric exploit script confirmed by Scheider Electric in a POC with confirmed CVE.',
     github: 'https://github.com/clizSec/ics-scada',
     link: 'https://ics-cert.us-cert.gov/advisories/ICSA-17-061-02',
-    buttonName: 'CVE'
+    linkButtonName: 'CVE',
+    additionalLink: 'https://www.exploit-db.com/exploits/41537',
+    additionalLinkButtonName: 'Exploit'
   },
 ];
 
