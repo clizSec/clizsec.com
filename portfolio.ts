@@ -40,7 +40,7 @@ export const skillsSection: SkillsSectionType = {
   subTitle: 'Keeping Hackers Guessing and Cyber Threats Stressing!',
   data: [
     {
-      title: 'Full Stack Development',
+      title: 'Coding and Development',
       lottieAnimationFile: '/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
       skills: [
         emoji(
@@ -89,6 +89,14 @@ export const skillsSection: SkillsSectionType = {
         {
           skillName: 'Yarn',
           fontAwesomeClassName: 'logos:yarn',
+        },
+        {
+          skillName: 'WebStorm',
+          fontAwesomeClassName: 'logos:webstorm',
+        },
+        {
+          skillName: 'Visual Studio',
+          fontAwesomeClassName: 'logos:visual-studio',
         },
       ],
     },
@@ -153,8 +161,8 @@ export const skillsSection: SkillsSectionType = {
       ],
     },
     {
-      title: 'Blockchain',
-      lottieAnimationFile: '/lottie/skills/ethereum.json', // Path of Lottie Animation JSON File
+      title: 'Hacking',
+      lottieAnimationFile: '/lottie/skills/hacker.json', // Path of Lottie Animation JSON File
       skills: [
         emoji(
           '⚡ Experience in developing Smart Contract using Solidity & Ethereum'
@@ -172,24 +180,32 @@ export const skillsSection: SkillsSectionType = {
       ],
       softwareSkills: [
         {
-          skillName: 'Ethereum',
-          fontAwesomeClassName: 'logos:ethereum',
+          skillName: 'Linux',
+          fontAwesomeClassName: 'logos:linux-tux',
         },
         {
-          skillName: 'Solidity',
-          fontAwesomeClassName: 'logos:solidity',
+          skillName: 'Windows',
+          fontAwesomeClassName: 'logos:microsoft-windows-icon',
         },
         {
-          skillName: 'Web3js',
-          fontAwesomeClassName: 'logos:web3js',
+          skillName: 'Web Application',
+          fontAwesomeClassName: 'dashicons:admin-site-alt3',
         },
         {
-          skillName: 'Metamask',
-          fontAwesomeClassName: 'logos:metamask-icon',
+          skillName: 'APIs',
+          fontAwesomeClassName: 'mdi:api',
         },
         {
-          skillName: 'Ganache',
-          fontAwesomeClassName: 'logos:ganache-icon',
+          skillName: 'Networking',
+          fontAwesomeClassName: 'dashicons:networking',
+        },
+        {
+          skillName: 'Internet of Things',
+          fontAwesomeClassName: 'eos-icons:iot',
+        },
+        {
+          skillName: 'Databases',
+          fontAwesomeClassName: 'material-symbols:database',
         },
       ],
     },
