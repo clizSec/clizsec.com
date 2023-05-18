@@ -43,11 +43,9 @@ export const skillsSection: SkillsSectionType = {
       title: 'Coding and Development',
       lottieAnimationFile: '/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
       skills: [
-        emoji(
-          '⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js'
-        ),
-        emoji('⚡ Building responsive static websites using Next.js'),
-        emoji('⚡ Building RESTful APIs in Django & Django REST Framework'),
+        emoji('⚡ Angular/AngularJS and C# development'),
+        emoji('⚡ Python and Bash scripting for tools and exploitation'),
+        emoji('⚡ Secure Software Development Life Cycle practices, ensuring secure coding standards.'),
       ],
       softwareSkills: [
         {
@@ -105,12 +103,8 @@ export const skillsSection: SkillsSectionType = {
       lottieAnimationFile: '/lottie/skills/cloudinfra.json', // Path of Lottie Animation JSON File
       skills: [
         emoji('⚡ Experience of working on multiple cloud platforms'),
-        emoji(
-          '⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases'
-        ),
-        emoji(
-          '⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions'
-        ),
+        emoji('⚡ Hosting and maintaining websites along with integration of databases'),
+        emoji('⚡ Working with email infrastructures with multi-purpose security configurations'),
       ],
       softwareSkills: [
         // ? Check README To get icon details
@@ -164,19 +158,9 @@ export const skillsSection: SkillsSectionType = {
       title: 'Hacking',
       lottieAnimationFile: '/lottie/skills/hacker.json', // Path of Lottie Animation JSON File
       skills: [
-        emoji(
-          '⚡ Experience in developing Smart Contract using Solidity & Ethereum'
-        ),
-        emoji(
-          '⚡ Building Scripts for automated testing & deployment of Smart Contracts using Brownie & Infura'
-        ),
-        emoji(
-          '⚡ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles'
-        ),
-        emoji('⚡ Developing NFT Smart Contracts using ERC-721 Token Standard'),
-        emoji(
-          '⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS'
-        ),
+        emoji('⚡ API Security Specialist'),
+        emoji('⚡ Web Application Security Experience'),
+        emoji('⚡ Vulnerability and Penetration Testing'),
       ],
       softwareSkills: [
         {
