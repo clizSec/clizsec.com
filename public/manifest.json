@@ -1,15 +1,15 @@
 {
   "short_name": "Portfolio",
-  "name": "Hanzla's Portfolio",
-  "description": "A passionate Full Stack Web Developer and Mobile App Developer.",
+  "name": "Mark Liapustin (clizSec) Portfolio",
+  "description": "Keeping Hackers Guessing and Cyber Threats Stressing!",
   "icons": [
     {
-      "src": "./favicon.png",
+      "src": "./android-chrome-192x-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "./favicon.png",
+      "src": "./android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
