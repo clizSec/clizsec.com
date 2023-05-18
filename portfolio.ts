@@ -286,6 +286,12 @@ export const projects: ProjectType[] = [
     additionalLink: 'https://www.exploit-db.com/exploits/41537',
     additionalLinkButtonName: 'Exploit'
   },
+  {
+    name: 'Successful Pilot with Israel Electric Corporation (IEC)',
+    desc: 'The pilot was conducted throughout 2015 and was led by Dr. Leonid Lev and Leonid Rosenblum of IEC, and cyber-security experts from Nation-E. The successful pilot demonstrated Nation-E’s ability to integrate with IEC’s communication systems and protect against a number of different cyber-attacks on its communication lines.',
+    link: 'https://www.benzinga.com/pressreleases/16/03/p7748887/israel-electric-corporation-iec-reports-successful-joint-pilot-with-nat',
+    linkButtonName: 'Press Release'
+  },
 ];
 
 export const feedbacks: FeedbackType[] = [
