@@ -28,6 +28,7 @@ const GithubProfileCard = ({ avatar_url, bio, location }: GithubUserType) => {
                 {location}
                 <br/>
               </div>
+              <br><br>
               <SocialLinks />
             </Col>
           </Row>
