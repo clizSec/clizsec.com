@@ -32,7 +32,7 @@ export const socialLinks: SocialLinksType = {
   github: 'https://github.com/clizSec',
   instagram: 'https://www.instagram.com/clizsec',
   facebook: 'https://www.facebook.com/clizsec',
-  twitter: 'https://www.linkedin.com/in/clizSec/',
+  //twitter: 'https://www.linkedin.com/in/clizSec/',
 };
 
 export const skillsSection: SkillsSectionType = {
