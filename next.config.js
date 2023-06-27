@@ -1,5 +1,6 @@
 module.exports = {
   reactStrictMode: false,
+  poweredByHeader: false,
   images: {
     domains: ['avatars.githubusercontent.com'],
   },
@@ -7,22 +8,7 @@ module.exports = {
     locales: ['en'],
     defaultLocale: 'en',
   },
-  async rewrites() {
-    return {
-      beforeFiles: [
-        {
-          source: '//cdnjs.cloudflare.com/:path*',
-          destination: 'https://cdnjs.cloudflare.com/:path*', // Force HTTPs
-          locale: false
-        },
-      ],
-      afterFiles: [
-        {
-          source: '//cdnjs.cloudflare.com/:path*',
-          destination: 'https://cdnjs.cloudflare.com/:path*', // Force HTTPs
-          locale: false
-        },
-      ]
-    }
+  devIndicators: {
+    buildActivityPosition: 'bottom-right',
   },
 };
