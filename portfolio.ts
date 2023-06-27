@@ -30,8 +30,8 @@ export const socialLinks: SocialLinksType = {
   url: 'https://clizsec.com/',
   linkedin: 'https://www.linkedin.com/in/clizSec/',
   github: 'https://github.com/clizSec',
-  instagram: 'https://www.instagram.com/clizsec',
-  facebook: 'https://www.facebook.com/clizsec',
+  //instagram: 'https://www.instagram.com/clizsec',
+  //facebook: 'https://www.facebook.com/clizsec',
   //twitter: 'https://www.linkedin.com/in/clizSec/',
 };
 
