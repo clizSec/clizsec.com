@@ -14,6 +14,7 @@ const GithubProfileCard = ({ avatar_url, bio, location }: GithubUserType) => {
                 src={avatar_url}
                 style={{ width: '200px', height: 'auto' }}
                 width={200}
+                height={'auto'}
                 alt=""
                 className="rounded-circle img-center img-fluid shadow shadow-lg--hover mb-4"
               />
