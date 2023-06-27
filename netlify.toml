@@ -6,5 +6,5 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "autoplay=()"
-    Content-Security-Policy = "default-src *"
+    Content-Security-Policy = "base-uri 'self'; default-src *;"
 
