@@ -12,7 +12,8 @@ const GithubProfileCard = ({ avatar_url, bio, location }: GithubUserType) => {
             <Col className="order-lg-2" lg="4">
               <img
                 src={avatar_url}
-                style={{ width: '200px' }}
+                style={{ width: '200px', height: 'auto' }}
+                width={200}
                 alt=""
                 className="rounded-circle img-center img-fluid shadow shadow-lg--hover mb-4"
               />
